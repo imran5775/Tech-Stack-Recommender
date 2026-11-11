@@ -1,0 +1,30 @@
+role,skills
+Data Scientist,python;sql;machine learning;statistics;data analysis;pandas;data visualization
+Machine Learning Engineer,python;machine learning;deep learning;tensorflow;pytorch;docker;apis;mlops
+MLOps Engineer,python;docker;kubernetes;ci/cd;mlops;machine learning;cloud computing;git
+AI Engineer,python;deep learning;nlp;tensorflow;pytorch;apis;cloud computing;git
+NLP Engineer,python;nlp;deep learning;pytorch;machine learning;apis;git
+Computer Vision Engineer,python;computer vision;deep learning;pytorch;opencv;machine learning;c++
+Data Analyst,sql;excel;data analysis;data visualization;statistics;power bi;tableau
+Business Intelligence Developer,sql;power bi;tableau;data visualization;etl;excel;databases
+Data Engineer,python;sql;etl;spark;big data;airflow;cloud computing;databases
+DevOps Engineer,docker;kubernetes;ci/cd;aws;linux;automation;terraform;monitoring;git;cloud computing;python
+Site Reliability Engineer,linux;kubernetes;monitoring;automation;python;cloud computing;networking;ci/cd
+Cloud Architect,cloud computing;aws;azure;system design;networking;security;terraform;kubernetes
+Cloud Engineer,cloud computing;aws;azure;linux;docker;automation;networking;python
+System Administrator,linux;networking;bash scripting;automation;security;monitoring;windows server;python
+Network Engineer,networking;routing;firewalls;security;linux;monitoring;automation
+Backend Developer,java;python;sql;apis;databases;data structures;git;system design;docker
+Frontend Developer,html;css;javascript;typescript;react;git;apis;testing;ui design
+Full Stack Developer,javascript;react;node.js;sql;apis;html;css;git;databases
+Android Developer,android;kotlin;java;apis;git;ui design;testing
+iOS Developer,swift;ios;apis;git;ui design;testing
+Cybersecurity Analyst,security;networking;ethical hacking;cryptography;linux;python;monitoring;firewalls
+Penetration Tester,ethical hacking;security;networking;linux;python;bash scripting;cryptography
+QA Automation Engineer,testing;selenium;automation;python;java;ci/cd;git;apis
+Database Administrator,sql;databases;linux;security;automation;monitoring;cloud computing
+Software Engineer,data structures;algorithms;java;python;git;system design;testing;databases
+Embedded Systems Engineer,c;c++;microcontrollers;linux;git;algorithms;testing
+Game Developer,c++;c#;unity;algorithms;data structures;git
+Blockchain Developer,solidity;javascript;cryptography;apis;git;node.js;security
+UI/UX Designer,ui design;figma;user research;prototyping;html;css
